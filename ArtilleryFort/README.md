@@ -4,6 +4,8 @@ ArtilleryFort
 ArtilleryFort is an automated artillery fort compatible with the Foundation rail
 set from Till223/Kano96.
 
+![Screenshot](screenshot.png)
+
 # Setup
 
 Place the station somewhere where in logistic range of the items it needs.
